@@ -1,3 +1,4 @@
+#!/bin/bash
 ###  ADD PATH FOLDER APLIKASI_SRC KE target_path
 ###  contoh: '/sdcard/Alarms/SystemUIGoogle_src'
 #target_path='/storage/emulated/0/Alarms/SettingsGoogle_src'
