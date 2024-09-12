@@ -2,7 +2,7 @@
 ###  contoh: '/sdcard/Alarms/SystemUIGoogle_src'
 #target_path='/storage/emulated/0/Alarms/SettingsGoogle_src'
 #target_path='/storage/emulated/0/Alarms/SystemUIGoogle_src'
-target_path='/storage/emulated/0/Apktool_M/SettingsGoogle_src'
+target_path='/storage/emulated/0/Apktool_M/SystemUIGoogle_src'
 
 ###  ADD DAFTAR FOLDER YG GAK DIHAPUS
 list_whitelist=("
